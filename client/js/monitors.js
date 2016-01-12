@@ -22,7 +22,7 @@ $(function() {
                 case 'started':
                     return 'info';
                 default:
-                    return 'unknown';
+                    return 'warning';
             }
         }
 
